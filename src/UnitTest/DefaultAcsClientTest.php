@@ -18,6 +18,7 @@
  * under the License.
  */
 include_once 'BaseTest.php';
+
 use UnitTest\Ecs\Request as Ecs;
 use UnitTest\BatchCompute\Request as BC;
 
